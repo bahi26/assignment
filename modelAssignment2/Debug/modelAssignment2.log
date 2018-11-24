@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\bahi\documents\visual studio 2015\projects\modelassignment2\modelassignment2\source.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\bahi\documents\visual studio 2015\projects\modelassignment2\modelassignment2\source.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  modelAssignment2.vcxproj -> C:\Users\BAHI\Documents\Visual Studio 2015\Projects\modelAssignment2\Debug\modelAssignment2.exe
+  modelAssignment2.vcxproj -> C:\Users\BAHI\Documents\Visual Studio 2015\Projects\modelAssignment2\Debug\modelAssignment2.pdb (Full PDB)
